@@ -106,4 +106,4 @@ Tabbed interface for managing:
 
 ## 👨‍🏫 Author
 
-Saad EL MABROUK
+Alae ddine El jirari 
